@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xenenon
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding and security
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Mastadon: xenenon@infosec.exchange 
