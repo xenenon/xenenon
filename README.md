@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xenenon
 - 👀 I’m interested in coding and security
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and Java 
+- 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me on Mastadon: xenenon@infosec.exchange 
 
 <!---
