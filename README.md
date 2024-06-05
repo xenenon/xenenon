@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding and security
 - 🌱 I’m currently learning Python, Java and SQL
 - 💞️ I’m looking to collaborate on open source projects 
-- 📫 How to reach me on Mastadon: xenenon@infosec.exchange 
+- 📫 How to reach me on Mastadon: xenenon@infosec.exchange
+- https://<a href="https://github.com/xenenon" rel="me">xenenon</a>
 
 <!---
 xenenon/xenenon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
